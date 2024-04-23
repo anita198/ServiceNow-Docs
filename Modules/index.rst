@@ -9,9 +9,7 @@ Modules
 Open new window from module
 ************************************************
 
-This will require two metric definitions.  One will track the assignment group field and
-the other will track the state field.  When the assignment group is filled the metric begins
-and when the state turns to close, the metric will find the assignment group metric and end the duration.
+This will require two metric definitions. One will track the assignment group field, while the other will track the state field. When the assignment group is filled the metric begins and when the state turns to close, the metric will find the assignment group metric and end the duration.
 
 
 .. admonition:: Module
